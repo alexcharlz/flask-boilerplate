@@ -1,0 +1,14 @@
+# virtual environment folder and related files
+env/
+venv/
+.env
+
+# cache
+*__pycache__
+*__pycache__/
+
+# database
+*.db
+
+# migrations
+*migrations
