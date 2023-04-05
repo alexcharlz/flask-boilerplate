@@ -39,4 +39,4 @@
 
 # Known Bugs
 
-- .flaskenv doesn't seen to have any effect whatsoever, hence we still have to export FLASK_APP env.
+- .flaskenv doesn't seem to have any effect whatsoever, hence we still have to export FLASK_APP env.
